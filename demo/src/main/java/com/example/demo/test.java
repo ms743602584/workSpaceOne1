@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class test {
     @RequestMapping("/hello")
     public String handle01(){
-        return "Hello, Spring Bdasdsadadoot 2!222eqweq22222222";
+        return "Hello, Spring Bdasdsadadooeqwet 2!222eqweq22222222";
     }
 
 }
